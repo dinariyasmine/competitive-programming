@@ -1,3 +1,4 @@
+from ast import List
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
         num_dict = {} #create empty dictionnary
