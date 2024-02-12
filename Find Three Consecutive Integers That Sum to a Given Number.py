@@ -1,6 +1,5 @@
 from ast import List
 
-
 class Solution:
     def sumOfThree(self, num: int) -> List[int]:
         
