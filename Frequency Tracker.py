@@ -1,5 +1,3 @@
-from collections import Counter
-
 class FrequencyTracker(object):
     def __init__(self) -> None:
         self.num = Counter()
